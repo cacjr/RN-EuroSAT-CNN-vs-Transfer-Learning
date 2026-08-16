@@ -2,7 +2,7 @@
 
 Classificação automática de imagens de satélite em 10 categorias de cobertura terrestre, comparando uma **CNN construída do zero** com **Transfer Learning (MobileNetV2)**.
 
-Projeto acadêmico — FIAP, curso de Inteligência Artificial (1TIAPR).
+Projeto acadêmico — FIAP, curso de Inteligência Artificial.
 
 ---
 
@@ -56,7 +56,7 @@ A CNN treinada do zero superou o Transfer Learning em todas as métricas — acc
 - Callbacks: EarlyStopping, ReduceLROnPlateau, ModelCheckpoint
 - Avaliação final em conjunto de teste isolado, com matriz de confusão e classification report por classe
 
-## Estrutura do repositório (Sessão "Models" aparecem ao ser executado na sua máquina)
+## Estrutura do repositório (sessão "models" aparece ao ser executado na sua máquina)
 
 ```
 ├── notebook/
